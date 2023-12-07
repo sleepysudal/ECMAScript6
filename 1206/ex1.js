@@ -8,3 +8,5 @@ console.log("메시지:"+msg+"!!!");
 console.log("메시지 %s!!!",msg);
 var j={"irum":"김영환"}
 console.log("json출력:: %j",j);
+var k={"test":"제발"}
+console.log("되나요?");
